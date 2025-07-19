@@ -7,8 +7,8 @@
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java, JavaScript, HTML, CSS
 - **Frameworks:** Spring Boot
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Outros:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
+- **Banco de Dados:** MySQL
+- **Outros:** Git, GitHub, IntelliJ IDEA, VS Code
 
 ## 📘 Projetos em Destaque
 🔹 [Numer-Secreto](https://github.com/larsilvapx/Jogo_do_Numero-Secreto) – Jogo do numero secreto utilizando conceitos basicos de JS  
