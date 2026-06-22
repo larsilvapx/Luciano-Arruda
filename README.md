@@ -1,6 +1,6 @@
 # Olá, eu sou o Luciano Arruda! 👋
 
-### Desenvolvedor Java Backend | Python & Dados
+### Desenvolvedor Python & Dados | Java Backend
 
 Sou um profissional de Tecnologia da Informação com mais de 20 anos de experiência na área técnica, destacando-se por uma sólida trajetória de 14 anos na Proxxi (An IBM Company) em análise de sistemas críticos e sustentação complexa. Atualmente, unifico essa sólida maturidade corporativa com a paixão por arquitetar soluções modernas no desenvolvimento Backend de software.
 
